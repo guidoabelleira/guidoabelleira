@@ -1,7 +1,7 @@
 # 👋 Bienvenidos! - Welcome! 
 ## ⚡ Languages and Tools:
 
-![alt text](https://ibb.co/RCV2Qy7)![alt text](https://ibb.co/r3k0dYs)![alt text](https://ibb.co/QNjG8CN)![alt text](https://ibb.co/DgJJKz7)![alt text](https://i.ibb.co/pW7TgyD/1280px-Git-logo-svg.png)
+![alt text](https://i.ibb.co/r3k0dYs/banner-skills-f.png)![alt text](https://i.ibb.co/RCV2Qy7/express-js-logo.png)![alt text](https://i.ibb.co/QNjG8CN/sequelize-logo.png)![alt text](https://i.ibb.co/DgJJKz7/Typescript-logo-2020-svg.png)![alt text](https://i.ibb.co/pW7TgyD/1280px-Git-logo-svg.png)
 
 
 
