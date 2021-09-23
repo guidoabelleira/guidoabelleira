@@ -18,5 +18,16 @@ Hi! I'm Guido, Full Stack Developer 👨‍💻
 ![alt text](https://i.postimg.cc/HnfHByY3/banner-skills-github.png)
 
 ## 🌱 My Proyects:
-
-
+<p>
+Simple Landing Page:
+</p>
+<img src="./img/dog-LandingPage.png" alt="Error Img" style="width:50%;">
+<p>
+Home: Search bar. Filters by weight, alphabetic & API/DB
+</p>
+<img src="./img/dog-home.png" alt="Error Img" style="width:50%;">
+<p>
+Controlled form:
+</p>
+<img src="./img/dog-add1.png" alt="Error Img" style="width:50%;">
+<img src="./img/dog-add-error.png" alt="Error Img" style="width:50%;">
