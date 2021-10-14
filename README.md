@@ -13,10 +13,10 @@
 const skills = {
     technologies: {
        frontEnd: {
-          js: ["React", "Redux"],
+          javaScript: ["React", "Redux"],
        },
        backEnd: {
-          js: ["Node", "Express", "Sequelize"],
+          javaScript: ["Node", "Express", "Sequelize"],
        },
        databases: ["PostgreSQL", "MySql"],
     },
