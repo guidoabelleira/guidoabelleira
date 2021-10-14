@@ -44,9 +44,7 @@ Controlled form:
 <a href="https://linkedin.com/in/guidoabelleira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guidoabelleira" height="30" width="40" /></a>
 </p>
 
-## 📫 Contact me:
-<a href="guidoabelleira@gmail.com"><img src="./img/gmail logo.jpg" alt="Gmail Img" style="width:84px;height:42px;"></a>
-<a href="https://www.linkedin.com/in/guidoabelleira/"><img src="./img/LinkedIn-Logo-2003.jpg" alt="LinkedIn Img" style="width:84px;height:42px;"></a>
+- 📫 How to reach me **guidoabelleira@gmail.com**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guidoabelleira&show_icons=true&locale=en&layout=compact" alt="guidoabelleira" /></p>
 
