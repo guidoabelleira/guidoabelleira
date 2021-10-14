@@ -62,6 +62,5 @@ Controlled form:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guidoabelleira&show_icons=true&locale=en&layout=compact" alt="guidoabelleira" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guidoabelleira&show_icons=true&locale=en" alt="guidoabelleira" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guidoabelleira&" alt="guidoabelleira" /></p>
