@@ -18,7 +18,7 @@ const skills = {
        backEnd: {
           javaScript: ["Node", "Express", "Sequelize"],
        },
-       databases: ["PostgreSQL", "MySql"],
+       databases: ["PostgreSQL", "MariaDB", "MySql"],
     },
  }; 
  ```
