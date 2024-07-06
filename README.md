@@ -23,36 +23,6 @@ const skills = {
  }; 
  ```
 
-## 🔭 I’m currently working on [E-commerce-PF10](https://github.com/guidoabelleira/E-Commerce-PF10)
-
-## 🌱 My Proyects:
-
-<h4 align="center"> Individual Project - Henry Dogs App </h4>
-<p>Application made based on the knowledge acquired in bootcamp "Henry". The app works with an external API
-which provides data on breeds of
-dogs, in turn the user can
-create your own breed of dog. I know
-implemented filters to separate
-the races coming from the API and from
-our own database, like this
-also, in alphabetical order, weight
-ascending and descending. Applied
-a page of 8 cards without
-Hooks implementation.</p>
-<p>
-Simple Landing Page:
-</p>
-<img src="./img/dog-LandingPage.png" alt="Error Img" style="width:50%;">
-<p>
-Home: Search bar. Filters by weight, alphabetic & API/DB
-</p>
-<img src="./img/dog-home.png" alt="Error Img" style="width:50%;">
-<p>
-Controlled form:
-</p>
-<img src="./img/dog-add1.png" alt="Error Img" style="width:50%;">
-<img src="./img/dog-add-error.png" alt="Error Img" style="width:50%;">
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/guidoabelleira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guidoabelleira" height="30" width="40" /></a>
